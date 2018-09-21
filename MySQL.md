@@ -118,11 +118,11 @@
 
 ***
 
-### **For More, Goto: **[Quick Guide for MySQL](https://www.tecmint.com/install-mysql-8-in-ubuntu/) 
+### For More, Goto: [Quick Guide for MySQL](https://www.tecmint.com/install-mysql-8-in-ubuntu/) 
 
 ***
 
-### **For More, Goto: **[KickAss Guide to complete installation of MySQL](https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install) 
+### For More, Goto: [KickAss Guide to complete installation of MySQL](https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/#apt-repo-fresh-install) 
 
 ***
 
