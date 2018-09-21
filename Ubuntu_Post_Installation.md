@@ -56,6 +56,14 @@
 
 ***
 
+### Set Templates (Right click > Add New Document)
+> `cd ~`
+
+> `touch Text_File.txt Python_File.py Java_File.java JS_File.js HTML_File.html CSS_File.css PHP_File.php MarkDown_File.md`
+
+
+***
+
 ### Install communitheme
 > `sudo snap install communitheme`
 
