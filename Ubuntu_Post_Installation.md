@@ -82,12 +82,6 @@
 
 ***
 
-### Install Remarkable Markdown Editor
-> [Remarkable](https://remarkableapp.github.io/linux/download.html)
-
-
-***
-
 ### Install following gnome shell extensions
 * Extensions
 * User Themes
@@ -100,6 +94,7 @@
 * Refresh Wifi Connections
 * Removable Drive Menu
 * Sound Input & Output Device Chooser
+* Appfolders Management extension
  
 
 ***
