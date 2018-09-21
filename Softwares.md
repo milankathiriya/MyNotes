@@ -4,6 +4,12 @@
 
 ***
 
+### Install Kazam (Screen Recorder)
+> `sudo apt install kazam`
+
+
+***
+
 ### Install Remarkable Markdown Editor
 > Download [Remarkable](https://remarkableapp.github.io/linux/download.html)
 
