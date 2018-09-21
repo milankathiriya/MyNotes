@@ -49,14 +49,14 @@
 ### Control MySQL service
 * To check status
 
-> `sudo service mysql status`
+> `sudo service mysql status`  
 **OR**
 
 > `sudo systemctl status mysql`
 
 * To start service
 
-> `sudo systemctl start mysql`
+> `sudo systemctl start mysql`  
 **OR**
 
 > `sudo service mysql start`  
@@ -70,10 +70,10 @@
 
 * To stop service
 
-> `sudo systemctl stop mysql`
+> `sudo systemctl stop mysql`  
 **OR**
 
-> `sudo service mysql stop`
+> `sudo service mysql stop`  
 **OR**
 
 > `sudo stop mysql`  
@@ -83,7 +83,7 @@
 
 * To restart service
 
-> `sudo systemctl restart mysql`
+> `sudo systemctl restart mysql`  
 **OR**
 
 > `sudo service mysql restart`  
