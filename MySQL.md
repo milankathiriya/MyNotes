@@ -1,29 +1,41 @@
 ## MySQL
 
+***
+
+***
+
 ### Start with root user
-* sudo mysql -u root -p
+> `sudo mysql -u root -p`
+
+***
 
 ### To know status of MySQL
-* sudo service mysql status
+> `sudo service mysql status`
+
+***
   
 ### To stop service of MySQL
-* sudo service mysql stop  
+> `sudo service mysql stop`  
 **OR**
-* sudo stop mysql  
+> `sudo stop mysql`  
 **OR**
-* sudo /etc/init.d/mysql stop
+> `sudo /etc/init.d/mysql stop`
+
+***
 
 ### To start service of MySQL
-* sudo service mysql start  
+> `sudo service mysql start`  
 **OR**
-* sudo start mysql  
+> `sudo start mysql`  
 **OR**
-* sudo /etc/init.d/mysql start
+> `sudo /etc/init.d/mysql start`
+
+***
 
 ### To restart service of MySQL
-* sudo service mysql restart  
+> `sudo service mysql restart`  
 **OR**
-* sudo restart mysql  
+> sudo restart mysql`  
 **OR**
-* sudo /etc/init.d/mysql restart
+> `sudo /etc/init.d/mysql restart`
 

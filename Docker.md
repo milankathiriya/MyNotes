@@ -1,5 +1,6 @@
 ## Search and Kill running docker containers
 
-1. ps aux | grep docker
-2. sudo kill pid_no
+> `ps aux | grep docker`
+
+> `sudo kill pid_no`
 
