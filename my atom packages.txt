@@ -1,0 +1,7 @@
+##
+Install via terminal
+
+#
+Copy below command and run into terminal:
+
+apm install emmet atom-beautify ask-stack git-plus linter linter-ui-default intentions busy-signal language-liquid highlight-selected minimap minimap-highlight-selected pigments minimap-pigments file-icons open-recent autocomplete-paths atom-live-server language-babel script autocomplete-python atom-material-syntax-dark django-templates platformio-ide-terminal
