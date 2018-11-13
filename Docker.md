@@ -49,7 +49,7 @@
 
 ***
 
-### Allo Non-root user to run Docker
+### Allow Non-root user to run Docker
 > `sudo groupadd docker`
 
 * **NOTE:** Put your username in place of `<user_name>` **OR** write `$USER` to auto-detect current logged-in user.
