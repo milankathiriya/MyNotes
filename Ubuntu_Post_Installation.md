@@ -124,7 +124,6 @@
 ***
 
 ### Cleanup any unused dependencies
-> `sudo autoremove apt`
-	
+> `sudo apt autoremove`
 	
 	

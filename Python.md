@@ -10,24 +10,39 @@
 
 ***
 
-### Install IDLE3
-> `sudo apt install idle3`
+### Update Python3 (includes pip3)
+* Download [Python3 Source Code](https://www.python.org/downloads/source/)
+
+> `cd Downloads `
+
+> `tar -xf Python-3.7.1.tar.xz`
+
+> `cd Python-3.7.0`
+
+> `./configure`
+
+> `make`
+
+> `sudo make install`
 
 
 ***
 
-### Install pip
-> `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+### Install IDLE3
+> `sudo apt install idle-python3.7`
 
-> `python3 get-pip.py`
 
-* Now check pip version:
+***
 
-> `pip --version && pip3 --version`
+### pip3
+
+* Check pip version:
+
+> `pip3 --version`
 
 * Now install any package with pip like:
 
-> `sudo -H pip install <package_name>`
+> `pip3 install <package_name> --user`
 
 ***
 
@@ -37,7 +52,5 @@
 
 ***
 
-### Install pipenv
-* pipenv already comes with pip installation. You dont need to install it again. Check via `pip freeze`. If pipenv don't in the list than install it:
-
-> `sudo -H pip install pipenv`
+### Install pipenv (includes virtualenv)
+> `pip3 install pipenv --user`
