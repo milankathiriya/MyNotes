@@ -13,7 +13,7 @@
 
 > `sudo dpkg -i mysql-apt-config_0.8.10-1_all.deb`
 
-* Noe select your required options and hit Ok.
+* Now select your required options and hit Ok.
 
 * Update package info
 
@@ -27,7 +27,7 @@
 
 * Between installation, Choose your required authentication plugin 
 
-* Now oyu all done.
+* Now you all done.
 
 
 ***

@@ -15,7 +15,7 @@
 
 > `sudo apt-get update && sudo apt upgrade`
 
-> `sudo apt-get install postgresql-10 pgadmin4`
+> `sudo apt-get install postgresql-11 pgadmin4`
 
 
 ***
