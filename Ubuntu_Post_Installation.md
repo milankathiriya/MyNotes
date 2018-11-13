@@ -15,8 +15,6 @@
 
 > `sudo apt install libavcodec-extra`
 
-> `sudo apt install libdvd-pkg`
-
 
 ***
 
@@ -103,7 +101,7 @@
 * Removable Drive Menu
 * Sound Input & Output Device Chooser
 * Appfolders Management extension
- 
+* Backup Tools
 
 ***
 
@@ -127,3 +125,6 @@
 
 ### Cleanup any unused dependencies
 > `sudo autoremove apt`
+	
+	
+	

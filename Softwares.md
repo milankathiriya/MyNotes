@@ -37,6 +37,8 @@
 ***
 
 ### Install developement related snap apps
+> `sudo apt install git`
+
 > `sudo snap install vscode --classic && sudo snap install atom --classic && sudo snap install sublime-text --classic && sudo snap install pycharm-community --classic`
 
 
