@@ -17,7 +17,7 @@
 
 > `tar -xf Python-3.7.1.tar.xz`
 
-> `cd Python-3.7.0`
+> `cd Python-3.7.1`
 
 > `./configure`
 
@@ -44,6 +44,13 @@
 
 > `pip3 install <package_name> --user`
 
+
+***
+
+### Install pipenv (includes virtualenv)
+> `pip3 install pipenv --user`
+
+
 ***
 
 ### Install bpython3 interpreter
@@ -52,5 +59,7 @@
 
 ***
 
-### Install pipenv (includes virtualenv)
-> `pip3 install pipenv --user`
+### Install jupyter notebook
+> `pip3 install jupyter --user`
+
+
