@@ -72,7 +72,7 @@
 ***
 ***
 
-## For More, Goto: [Docker Get-Started Guide](https://docs.docker.com/get-started/) 
+## For More, Goto: [Docker Get-Started Guide](https://docs.docker.com/get-started/)
 
 
 ***

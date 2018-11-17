@@ -1,0 +1,20 @@
+{
+	"auto_formatting": true,
+    "anaconda_linter_mark_style": "none",
+    "autoformat_ignore":
+    [
+        "E309",
+        "E501"
+    ],
+    "pep8_ignore":
+    [
+        "E309",
+        "E501"
+    ],
+    "anaconda_linter_underlines": false,
+    "display_signatures": true,
+    "enable_signatures_tooltip": true,
+    "merge_signatures_and_doc": true,
+    "anaconda_linter_phantoms": true,
+    "disable_anaconda_completion": true
+}
