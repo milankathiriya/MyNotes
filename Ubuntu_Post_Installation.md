@@ -48,6 +48,12 @@
 
 ***
 
+### Install PulseAudio Volume Control
+> `sudo apt install pavucontrol`
+
+
+***
+
 ### Set click to Minimize
 > `gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'`
 
