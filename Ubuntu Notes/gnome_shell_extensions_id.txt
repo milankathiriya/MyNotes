@@ -1,0 +1,12 @@
+1217:appfolders-manager@maestroschan.fr
+1312:backup-tools@yahoo.com
+1160:dash-to-panel@jderose9.github.com
+1065:docker_status@gpouilloux
+7:drive-menu@gnome-shell-extensions.gcampax.github.com
+1036:extensions@abteil.org
+770:fq@megh
+841:freon@UshakovVasilii_Github.yahoo.com
+1190:IP-Finder@linxgem33.github.com
+104:netspeed@hedayaty.gmail.com
+905:refresh-wifi@kgshank.net
+906:sound-output-device-chooser@kgshank.net

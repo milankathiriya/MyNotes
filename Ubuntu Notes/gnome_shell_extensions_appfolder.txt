@@ -1,0 +1,35 @@
+[/]
+folder-children=['Utilities', 'Sundry', 'YaST', 'Development', 'Social', 'Multimedia', 'Office']
+
+[folders/Development]
+apps=['atom_atom.desktop', 'sublime-text_subl.desktop', 'vscode_vscode.desktop', 'chrome-fhbjgbiflinjbdggehcddcbncdddomop-Default.desktop', 'pycharm-community_pycharm-community.desktop', 'remarkable.desktop', 'idle-python3.7.desktop', 'mysql-workbench.desktop', 'pgadmin4.desktop', 'kitematic.desktop', 'sqlitebrowser.desktop', 'bpython3.desktop', 'jupyter_notebook.desktop', 'XAMPP.desktop', 'org.kde.kdenlive.desktop', 'mpv.desktop', 'ocenaudio.desktop', 'pavucontrol.desktop', 'draw.io.desktop']
+name='Development'
+
+[folders/Office]
+apps=['libreoffice-calc.desktop', 'libreoffice-draw.desktop', 'libreoffice-impress.desktop', 'libreoffice-writer.desktop']
+name='Office'
+
+[folders/Social]
+apps=['skype_skypeforlinux.desktop', 'telegram-desktop_telegramdesktop.desktop']
+name='Social'
+
+[folders/Utilities]
+translate=true
+categories=['X-GNOME-Utilities']
+apps=['org.gnome.baobab.desktop', 'deja-dup-preferences.desktop', 'eog.desktop', 'evince.desktop', 'org.gnome.FileRoller.desktop', 'gnome-calculator.desktop', 'gnome-dictionary.desktop', 'org.gnome.Characters.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Terminal.desktop', 'org.gnome.Screenshot.desktop', 'gnome-system-log.desktop', 'gnome-system-monitor.desktop', 'gnome-tweak-tool.desktop', 'gucharmap.desktop', 'seahorse.desktop', 'vinagre.desktop', 'yelp.desktop']
+name='X-GNOME-Utilities.directory'
+
+[folders/Multimedia]
+apps=['vlc_vlc.desktop', 'totem.desktop', 'shotwell.desktop', 'cheese.desktop', 'rhythmbox.desktop', 'polarr_polarr.desktop', 'gimp_gimp.desktop']
+name='Multimedia'
+
+[folders/Sundry]
+translate=true
+categories=['X-GNOME-Sundry']
+apps=['alacarte.desktop', 'authconfig.desktop', 'ca.desrt.dconf-editor.desktop', 'fedora-release-notes.desktop', 'firewall-config.desktop', 'flash-player-properties.desktop', 'gconf-editor.desktop', 'gnome-abrt.desktop', 'gnome-power-statistics.desktop', 'ibus-setup-anthy.desktop', 'ibus-setup.desktop', 'ibus-setup-hangul.desktop', 'ibus-setup-libbopomofo.desktop', 'ibus-setup-libpinyin.desktop', 'ibus-setup-m17n.desktop', 'ibus-setup-typing-booster.desktop', 'im-chooser.desktop', 'itweb-settings.desktop', 'jhbuild.desktop', 'javaws.desktop', 'java-1.7.0-openjdk-jconsole.desktop', 'java-1.7.0-openjdk-policytool.desktop', 'log4j-chainsaw.desktop', 'log4j-logfactor5.desktop', 'nm-connection-editor.desktop', 'orca.desktop', 'setroubleshoot.desktop', 'system-config-date.desktop', 'system-config-firewall.desktop', 'system-config-keyboard.desktop', 'system-config-language.desktop', 'system-config-printer.desktop', 'system-config-users.desktop', 'vino-preferences.desktop']
+name='X-GNOME-Sundry.directory'
+
+[folders/YaST]
+translate=true
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
