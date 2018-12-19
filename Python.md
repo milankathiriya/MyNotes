@@ -28,6 +28,16 @@
 
 ***
 
+### Install some useful dependencies
+
+> `sudo apt install build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev xz-utils tk-dev`
+
+* Now in the downloaded python source rebuild and install python with the following command: 
+
+> `./configure --enable-loadable-sqlite-extensions && make && sudo make install`
+***
+
+
 ### Install IDLE3
 > `sudo apt install idle-python3.7`
 
@@ -63,3 +73,6 @@
 > `pip3 install jupyter --user`
 
 
+***
+
+* Restart your terminal or device
