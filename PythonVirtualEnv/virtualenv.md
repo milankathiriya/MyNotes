@@ -49,7 +49,7 @@
 ---
 
 ### Deactivate Virtual Environment
-* For Windows/ Mac / Linux:
+* For Windows / Mac / Linux:
 
 >`deactivate`
 
@@ -62,4 +62,8 @@
 
 >**OR**
 
->`sudo -rf venv`
+>`sudo rm -rf venv`
+
+* For Windows:
+
+>`rmdir venv /s`
